@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omidroshani&label=Profile%20views&color=0e75b6&style=flat" alt="omidroshani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omidroshani" alt="omidroshani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omidroshani&title=Followers,Issues,Commits,Stars,Repositories,PullRequest&margin-w=5" alt="omidroshani" /></a> </p>
 
 - 🔭 I’m currently working in **Cisco as a Data Scientist**
 
