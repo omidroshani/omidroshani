@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 🤝 I’m looking for help with [Persian Websites' Crawlers](https://github.com/omidroshani/DeepDIA)
+- 🤝 I’m looking for help with [Trading Matching Engine](https://github.com/omidroshani/matching-engine)
 
 - 💬 Ask me about **Python, Django, Machine Learning, Data Science**
-
-- 📫 How to reach me **omidroshanie@gmail.com**
 
 - 📄 Know about my experiences [https://omid.info](https://omid.info)
 
