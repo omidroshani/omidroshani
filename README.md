@@ -11,13 +11,7 @@
 
 - 🤝 I’m looking for help with [Trading Matching Engine](https://github.com/omidroshani/matching-engine)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/omidroshani](https://linktr.ee/omidroshani)
-
 - 💬 Ask me about **Python, Django, Machine Learning, Data Science**
-
-- 📫 How to reach me **omid@texoom.net**
-
-- 📄 Know about my experiences [https://bit.ly/omidroshani](https://bit.ly/omidroshani)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
