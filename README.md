@@ -6,7 +6,7 @@ With years of experience in backend development and data science, I specialize i
 
 ### What I do:
 - Develop robust and scalable **backend systems** focusing on high availability and performance.
-- Design and implement **data pipelines** and **machine learning models** using frameworks like **TensorFlow**, **PyTorch**, and **Scikit-learn**.
+- Design and implement **data pipelines** and **ML models** using frameworks like **TensorFlow**, **PyTorch**, and **Scikit-learn**.
 - Utilize cloud platforms like **AWS**, **Azure**, and **GCP** to deploy and manage services.
 - Implement **DevOps** best practices with **Docker**, **Kubernetes**, and **CI/CD** pipelines.
 - Monitor and analyze data with **Grafana**, **Prometheus**, and **Elasticsearch**.
@@ -20,12 +20,22 @@ Feel free to explore my repositories, and let’s connect if you’re looking fo
 
 
 ## 🛠️ Skills
+
 **Languages:** Python, Scala, TypeScript, Bash Scripting, SQL
+
 **Backend Frameworks:** FastAPI, Django, Flask, GraphQL
+
 **Frontend Frameworks & Libraries:** Vue.js, Nuxt.js, TailwindCSS
+
 **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Redis, SQL Server
+
 **Messaging & Task Queues:** RabbitMQ, Celery, Dramatiq, Temporal.io, Kafka
+
 **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Nginx, Traefik, Linux
+
 **Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
+
 **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
+
 **Testing & Automation:** Pytest, Unittest, Selenium, Playwright
+
