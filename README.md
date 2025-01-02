@@ -15,9 +15,7 @@ With years of experience in backend development and data science, I specialize i
 - 🏗️ Building end-to-end **data-driven applications** to help businesses gain actionable insights.
 - ⚡ Optimizing and scaling **cloud-based infrastructures** to support mission-critical applications.
 
-Feel free to explore my repositories, and let’s connect if you’re looking for collaboration opportunities or have any questions! 🚀
 
----
 
 ## 🛠️ Skills
 
@@ -38,3 +36,10 @@ Feel free to explore my repositories, and let’s connect if you’re looking fo
 **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
 
 **Testing & Automation:** Pytest, Unittest, Selenium, Playwright
+
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidroshani&layout=compact&theme=default)
+
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=omidroshani&theme=default) 
+
