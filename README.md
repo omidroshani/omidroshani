@@ -28,7 +28,7 @@ With years of experience in backend development and data science, I specialize i
 
 - **Messaging & Task Queues:** RabbitMQ, Celery, Dramatiq, Temporal.io, Kafka
 
-- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Nginx, Traefik, Linux
+- **Cloud & DevOps:** AWS, Azure, GC, Digital Ocean, Docker, Kubernetes, Nginx, Traefik, Linux, Pulumi
 
 - **Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
 
