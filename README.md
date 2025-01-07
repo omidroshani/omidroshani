@@ -2,7 +2,7 @@
 ***Senior Software Engineer, Data Scientist.***<br>
 With years of experience in backend development and data science, I specialize in creating scalable, high-performance applications using **Python**, **FastAPI**, and **Django**. I’m passionate about leveraging data-driven solutions to solve complex problems and enhance business operations.
 
-## Expertise 🚀💼
+## Expertise 💼
 
 ### What I do:
 - 🛠️ Develop robust and scalable **backend systems** focusing on high availability and performance.
@@ -16,7 +16,7 @@ With years of experience in backend development and data science, I specialize i
 - ⚡ Optimizing and scaling **cloud-based infrastructures** to support mission-critical applications.
 
 
-## 🛠️ Skills
+## Skills 🛠️
 
 - **Languages:** Python, Scala, TypeScript, Bash Scripting, SQL
 
