@@ -1,8 +1,8 @@
-# Hi there, I'm Omid Roshani 👋
-
-## Senior Software Engineer | Data Science Enthusiast 💻📊
-
+# Omid Roshani
+***Senior Software Engineer, Data Scientist.***<br>
 With years of experience in backend development and data science, I specialize in creating scalable, high-performance applications using **Python**, **FastAPI**, and **Django**. I’m passionate about leveraging data-driven solutions to solve complex problems and enhance business operations.
+
+## Expertise 🚀💼
 
 ### What I do:
 - 🛠️ Develop robust and scalable **backend systems** focusing on high availability and performance.
@@ -16,30 +16,28 @@ With years of experience in backend development and data science, I specialize i
 - ⚡ Optimizing and scaling **cloud-based infrastructures** to support mission-critical applications.
 
 
-
 ## 🛠️ Skills
 
-**Languages:** Python, Scala, TypeScript, Bash Scripting, SQL
+- **Languages:** Python, Scala, TypeScript, Bash Scripting, SQL
 
-**Backend Frameworks:** FastAPI, Django, Flask, GraphQL
+- **Backend Frameworks:** FastAPI, Django, Flask, GraphQL
 
-**Frontend Frameworks & Libraries:** Vue.js, Nuxt.js, TailwindCSS
+- **Frontend Frameworks & Libraries:** Vue.js, Nuxt.js, TailwindCSS
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Redis, SQL Server
+- **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Redis, SQL Server
 
-**Messaging & Task Queues:** RabbitMQ, Celery, Dramatiq, Temporal.io, Kafka
+- **Messaging & Task Queues:** RabbitMQ, Celery, Dramatiq, Temporal.io, Kafka
 
-**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Nginx, Traefik, Linux
+- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Nginx, Traefik, Linux
 
-**Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
+- **Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
 
-**AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
+- **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
 
-**Testing & Automation:** Pytest, Unittest, Selenium, Playwright
+- **Testing & Automation:** Pytest, Unittest, Selenium, Playwright
 
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidroshani&layout=compact&theme=default)
-
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=omidroshani&theme=default) 
-
+## Get in touch 💬
+- 📧 Email: hello@omid.ai
+- 🌐 Website: https://omid.ai
+- 📰 Blog: https://blog.omid.ai
+- 💼 LinkedIn: https://www.linkedin.com/in/omidroshani/
