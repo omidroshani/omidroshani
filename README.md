@@ -19,21 +19,13 @@ With years of experience in backend development and data science, I specialize i
 ## Skills 🛠️
 
 - **Languages:** Python, Scala, TypeScript, Bash Scripting, SQL
-
 - **Backend Frameworks:** FastAPI, Django, Flask, GraphQL
-
 - **Frontend Frameworks & Libraries:** Vue.js, Nuxt.js, TailwindCSS
-
 - **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Redis, SQL Server
-
 - **Messaging & Task Queues:** RabbitMQ, Celery, Dramatiq, Temporal.io, Kafka
-
 - **Cloud & DevOps:** AWS, Azure, GC, Digital Ocean, Docker, Kubernetes, Nginx, Traefik, Linux, Pulumi
-
 - **Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
-
 - **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
-
 - **Testing & Automation:** Pytest, Unittest, Selenium, Playwright
 
 ## Get in touch 💬
