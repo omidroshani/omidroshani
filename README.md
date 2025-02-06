@@ -27,9 +27,3 @@ With years of experience in backend development and data science, I specialize i
 - **Big Data & Analytics:** Apache Hadoop, Spark, Pandas, Elasticsearch, Prometheus, Grafana, Kibana, Honeycomb
 - **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Seaborn
 - **Testing & Automation:** Pytest, Unittest, Selenium, Playwright
-
-## Get in touch 💬
-- 📧 Email: hello@omid.ai
-- 🌐 Website: https://omid.ai
-- 📰 Blog: https://blog.omid.ai
-- 💼 LinkedIn: https://www.linkedin.com/in/omidroshani/
