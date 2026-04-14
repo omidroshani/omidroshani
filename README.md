@@ -50,7 +50,6 @@ I'm a software engineer based in Dubai, with **8+ years** working across backend
 
 <p align="center">
   <a href="https://github.com/omidroshani">
-    <img src="https://streak-stats.demolab.com?user=omidroshani&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E#gh-dark-mode-only" />
-    <img src="https://streak-stats.demolab.com?user=omidroshani&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76#gh-light-mode-only" />
+    <img src="https://streak-stats.demolab.com?user=omidroshani&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
   </a>
 </p>
