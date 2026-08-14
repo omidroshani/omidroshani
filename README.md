@@ -48,6 +48,4 @@ I'm a software engineer based in Dubai, with **10+ years** working across backen
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=omidroshani)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omidroshani)](https://git.io/streak-stats)
