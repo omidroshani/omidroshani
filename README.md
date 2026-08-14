@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I'm a software engineer based in Dubai, with **8+ years** working across backend, data, and AI. Most of my career has been spent on systems that sit at the messy intersection of the three — ML evaluation tooling at Cisco, AI agents for logistics at DrayDog, and a few things in between. I like problems where the data is ugly, the constraints are real, and the solution has to actually work in production.
+I'm a software engineer based in Dubai, with **10+ years** working across backend, data, and AI. Most of my career has been spent on systems that sit at the messy intersection of the three — ML evaluation tooling at Cisco, AI agents for logistics at DrayDog, and a few things in between. I like problems where the data is ugly, the constraints are real, and the solution has to actually work in production.
 
 ---
 
