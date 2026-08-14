@@ -50,6 +50,6 @@ I'm a software engineer based in Dubai, with **10+ years** working across backen
 
 <p align="center">
   <a href="https://github.com/omidroshani">
-    <img src="https://streak-stats.demolab.com/?user=omidroshani&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omidroshani&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
